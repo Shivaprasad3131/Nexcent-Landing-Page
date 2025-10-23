@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Nexcent-Landing-Page/static/css/main.223ab505.css",
+    "main.js": "/Nexcent-Landing-Page/static/js/main.6fb0dffa.js",
+    "static/media/image 18.png": "/Nexcent-Landing-Page/static/media/image 18.c613a43fe90a22ae451a.png",
+    "static/media/image 19.png": "/Nexcent-Landing-Page/static/media/image 19.fc9c39c73a897a020225.png",
+    "static/media/image 20.png": "/Nexcent-Landing-Page/static/media/image 20.344af0e13eee8e26ac3e.png",
+    "static/media/Hero.svg": "/Nexcent-Landing-Page/static/media/Hero.c8d37ef05c562e0b5ccb01bb739ee34c.svg",
+    "static/media/image 9.png": "/Nexcent-Landing-Page/static/media/image 9.b6b210fce8d84cec0f0e.png",
+    "static/media/Frame.png": "/Nexcent-Landing-Page/static/media/Frame.041e0db99fc754af673b.png",
+    "static/media/pana.png": "/Nexcent-Landing-Page/static/media/pana.2c24ebc308c9ad7140b8.png",
+    "static/media/Logo4.svg": "/Nexcent-Landing-Page/static/media/Logo4.5d9bf05bac8aebed1e7680679f498d89.svg",
+    "static/media/Logo3.svg": "/Nexcent-Landing-Page/static/media/Logo3.dedb9da8838646a924cb1c1d7a2b17e0.svg",
+    "static/media/Logo5.svg": "/Nexcent-Landing-Page/static/media/Logo5.d77ab6893a02ce6a6b8b4e1f65e1c5b8.svg",
+    "static/media/Logo6.svg": "/Nexcent-Landing-Page/static/media/Logo6.e4439ec387a05d9d1e024f1eb2e71be9.svg",
+    "static/media/Logo1.svg": "/Nexcent-Landing-Page/static/media/Logo1.ee647e567fd46460630aecce751ef639.svg",
+    "static/media/Logo2.svg": "/Nexcent-Landing-Page/static/media/Logo2.d794f5a904584bd27cca2a787bfe99dc.svg",
+    "index.html": "/Nexcent-Landing-Page/index.html",
+    "static/media/Icon.svg": "/Nexcent-Landing-Page/static/media/Icon.4f9b68b741122c8ee8cc89a263586ac2.svg",
+    "main.223ab505.css.map": "/Nexcent-Landing-Page/static/css/main.223ab505.css.map",
+    "main.6fb0dffa.js.map": "/Nexcent-Landing-Page/static/js/main.6fb0dffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.223ab505.css",
+    "static/js/main.6fb0dffa.js"
+  ]
+}
